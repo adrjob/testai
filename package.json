@@ -10,6 +10,9 @@
     "chatgpt"
   ],
   "author": "Super",
+  "engines": {
+    "node": "19.1.0"
+  },
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
